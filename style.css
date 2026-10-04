@@ -59,12 +59,12 @@ header {
 .res-bu {
     padding: 12px 20px;
     border: 1px solid #d4af65;
-    color: #d4af65 ;
+    color: #d4af65;
     transition: 0.3s ease;
 }
 .res-bu:hover {
     background-color: #d4af65;
-    color: #120b07 ;
+    color: #120b07 !important;
 }
 .home {
     height: 100vh;
@@ -514,7 +514,7 @@ section {
     .about-content h2 {
         font-size: 43px;
     }
-    .exp-content h2 {
+    .exp-cont h2 {
         font-size: 40px;
     }
     .exp-cards {
