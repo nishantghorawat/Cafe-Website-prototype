@@ -59,7 +59,7 @@ header {
 .res-bu {
     padding: 12px 20px;
     border: 1px solid #d4af65;
-    color: #d4af65;
+    color: #d4af65 !important;
     transition: 0.3s ease;
 }
 .res-bu:hover {
